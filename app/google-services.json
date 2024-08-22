@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057782738806",
+    "project_id": "dairygreens-494d2",
+    "storage_bucket": "dairygreens-494d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057782738806:android:20362bb72124512ea4d457",
+        "android_client_info": {
+          "package_name": "com.unifydream.dairygreens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr4iS8gEmJCozAmpQqstXTAw_pvv7tGxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
